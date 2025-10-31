@@ -54,7 +54,7 @@ The project aims to create a self-contained platform capable of interfacing with
 
 ## System Architecture
 
-```
+
 +---------------------------------------------------+
 |                  Pi Probe Stack                   |
 +---------------------------------------------------+
@@ -66,7 +66,7 @@ The project aims to create a self-contained platform capable of interfacing with
 |---------------------------------------------------|
 |  Hardware: Pi Zero 2W + TFT Display + LiPo        |
 +---------------------------------------------------+
-```
+
 ## Timeline
 
 
